@@ -36,7 +36,7 @@ I am a passionate and motivated aspiring Software Developer with skills in front
 ---
 
 ## 📫 Let's Connect
-- LinkedIn: (Add your LinkedIn link here)
-- Email: (Add your professional email here)
+- LinkedIn: www.linkedin.com/in/nokwazi-lumka
+- Email: nokwazi.47@gmail.com
 
 ⭐ Always open to learning and collaboration!
