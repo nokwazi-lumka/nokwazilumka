@@ -14,6 +14,7 @@ I am a passionate and motivated aspiring Software Developer with skills in front
 - JavaScript
 - Java
 - C#
+- PHP
 
 ### 🛠 Tools & Technologies
 - Git & GitHub
